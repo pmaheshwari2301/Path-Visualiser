@@ -486,7 +486,7 @@ const changeWallWeight = () => {
 						</ul>
 						<br></br><br></br><br></br>
 						<span>
-							Made by Himanshu Chaudhary & Palak Kothari
+							Made by Purvi Maheshwari
 						</span>
 						<br></br>
 				</div>
